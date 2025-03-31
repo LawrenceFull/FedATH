@@ -1,1 +1,1 @@
-# The implemention of FedATH
+# The implemention of paper's idea.
